@@ -2,7 +2,7 @@ import palletePicker from "./assets/palletePicker.png";
 
 export default function Card9() {
   return (
-    <div className="card1 w-[382px] bg-white rounded-[20px]  flex flex-col gap-[46px] p-[20px]">
+    <div className="card1 w-full bg-white rounded-[20px]  flex flex-col gap-[46px] p-[20px]">
       <div className="cardUpper flex gap-4">
         <div className="left">
           <img src={palletePicker} />

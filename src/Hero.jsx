@@ -14,8 +14,8 @@ import Card12 from "./Card12";
 export default function Hero() {
   return (
     <div className="hero mt-[64px] mb-[64px]">
-      <div className="container mx-auto w-[1170px]">
-        <div className="upper flex items-center justify-between">
+      <div className="container mx-auto max-w-[1170px]">
+        <div className="upper flex flex-col md:flex-row gap-5 items-center justify-between">
           <p className="font-bold text-[34px] leading-[100%] tracking-[-1px] text-[#091540]">
             Extensions List
           </p>
