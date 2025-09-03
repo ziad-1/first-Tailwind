@@ -1,4 +1,4 @@
-import markupNotes from "./assets/markupnotes.png";
+import markupNotes from "./assets/markupNotes.png";
 
 export default function Card7() {
   return (
