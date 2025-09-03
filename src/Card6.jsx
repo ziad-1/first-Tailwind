@@ -1,4 +1,4 @@
-import viewPortBuddy from "./assets/ViewPortBuddy.png";
+import viewPortBuddy from "./assets/ViewportBuddy.png";
 
 export default function Card6() {
   return (
