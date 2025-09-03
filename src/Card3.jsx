@@ -2,7 +2,7 @@ import speedBoost from "./assets/speedBoost.png";
 
 export default function Card3() {
   return (
-    <div className="card1 w-fullbg-white rounded-[20px]  flex flex-col gap-[46px] p-[20px]">
+    <div className="card1 w-full bg-white rounded-[20px]  flex flex-col gap-[46px] p-[20px]">
       <div className="cardUpper flex gap-4">
         <div className="left">
           <img src={speedBoost} />
